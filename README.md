@@ -6,7 +6,7 @@ This is the repository for Walmart sales forecasting. Below are the descriptions
 * `analysis.py`: Python code used to generate the Decision Tree Regression and ARIMA model
 * `Ablation_Study.pdf`: Ablation Study on Decision Tree and ARIMA in Walmart Sales Prediction
 
-Before running the python file, the following python libraries must be downloaded:
+Before running the python file `analysis.py`, the following python libraries must be downloaded:
 
 - pandas
 - numpy
