@@ -8,7 +8,7 @@ from pmdarima import auto_arima
 import sklearn.metrics
 
 # load walmart dataset
-url = "https://raw.githubusercontent.com/wahub-ahmed/walmart-sales-prediction/main/train.csv"
+url = "https://raw.githubusercontent.com/joseph-kimm/walmart-sales-forecast/main/train.csv"
 data = pd.read_csv(url)
 
 # convert the 'Date' column to datetime format and add 'Month' and 'Day' columns
